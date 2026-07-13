@@ -13,6 +13,11 @@ This folder contains examples of simple pulse design notebooks created in TokaMa
 ### Python Scripts
 - **d3d_pulse_ex.py**  
   Shows a simple pulse design for General Atomics' DIII-D reactor.
+- **STEP_TokaMaker_TORAX/**
+  Shows the TokaMaker + TORAX coupled workflow for a single steady-state
+  operating point (rather than a full pulse), using UKAEA's
+  [OpenSTEP](https://github.com/ukaea/OpenSTEP) public data release for the
+  STEP tokamak's flat-top scenario as input geometry and initial profiles.
 ---
 
 ## Purpose
